@@ -1,0 +1,2 @@
+tensorflow == 1.14.0
+tensorflow-transform == 2.16.0
